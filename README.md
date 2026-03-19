@@ -126,7 +126,7 @@ cd darknet-traffic-classification
 ---
 
 ## 📌 Future Improvements  
-- Implement advanced deep learning models (CNN, LSTM)  
+- Implement advanced deep learning models (LSTM)  
 - Use real-time streaming data  
 - Apply feature selection techniques  
 - Deploy as a web-based detection system  
