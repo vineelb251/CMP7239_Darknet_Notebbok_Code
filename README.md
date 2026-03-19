@@ -40,8 +40,8 @@ The models are trained on the **CICDarknet2020 dataset**, which contains network
 - K-Nearest Neighbors (KNN)  
 
 ### 🔹 Deep Learning Models  
-- Artificial Neural Network (ANN)  
-- Multilayer Perceptron (MLP)  
+- 1D Convolutional Neural Network (CNN)  
+-  Deep Neural Network (MLP)  
 
 ---
 
