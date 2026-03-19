@@ -34,7 +34,7 @@ The models are trained on the **CICDarknet2020 dataset**, which contains network
 ## 🧠 Models Implemented  
 
 ### 🔹 Machine Learning Models  
-- Logistic Regression  
+- XGBoost  
 - Decision Tree  
 - Random Forest  
 - K-Nearest Neighbors (KNN)  
