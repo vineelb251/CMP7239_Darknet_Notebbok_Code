@@ -26,7 +26,8 @@ The models are trained on the **CICDarknet2020 dataset**, which contains network
 - **File Used:** `Darknet.csv`  
 - **Type:** Multi-class classification  
 - **Features:** Network traffic flow features  
-- **Target Variable:** Traffic Category (Non-Tor, NonVPN, Tor, VPN)  
+- **Target Variable:** Traffic Category (Non-Tor, NonVPN, Tor, VPN)
+- Dataset Link: https://drive.google.com/file/d/1NWa5zLHFhNzD0tlYzp1trJuhwc_7WdPX/view?usp=drive_link 
 
 ---
 
